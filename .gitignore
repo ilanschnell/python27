@@ -1,0 +1,14 @@
+*.pyc
+*.o
+Makefile*
+Misc/python.pc
+Modules/Setup*
+Modules/config.c
+Modules/ld_so_aix
+Parser/pgen
+config.*
+libpython*.a
+pybuilddir.txt
+python.exe*
+pyconfig.h
+build/
